@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ThreadSynchonization.iml" filepath="$PROJECT_DIR$/ThreadSynchonization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChangeTextAfterAWhile(Thread).iml" filepath="$PROJECT_DIR$/ChangeTextAfterAWhile(Thread).iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
